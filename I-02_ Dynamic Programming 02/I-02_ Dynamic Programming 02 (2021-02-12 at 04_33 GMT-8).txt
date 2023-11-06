@@ -1,0 +1,57 @@
+00:13:01.250,00:13:04.250
+Sabbir Rahman: https://cses.fi/problemset/task/1634
+
+00:16:25.201,00:16:28.201
+Syed Aref Ahmed: dp(cnt) = for all coins+dp(cnt-1)
+
+00:20:26.239,00:20:29.239
+Syed Aref Ahmed: O(n)
+
+00:23:34.976,00:23:37.976
+Syed Aref Ahmed: return inf ?
+
+00:29:14.243,00:29:17.243
+Syed Aref Ahmed: subsequence er moto ??
+
+00:31:01.340,00:31:04.340
+NIRJHOR DATTA: dp[x]=dp[x]+dp[x-coin[i]]
+
+00:33:41.237,00:33:44.237
+Syed Aref Ahmed: if(n==0) return 1
+
+00:38:45.521,00:38:48.521
+Syed Aref Ahmed: DP(N,i)
+
+00:46:16.838,00:46:19.838
+Andalib Rahman Shagoto: map?
+
+01:00:32.597,01:00:35.597
+Syed Aref Ahmed: duitai ignore kora ?
+
+01:01:47.131,01:01:50.131
+Syed Aref Ahmed: max( dp(s,t-1) dp(s-1,t) )
+
+01:04:00.509,01:04:03.509
+Syed Aref Ahmed: if(a<0 || b<0)
+
+01:08:32.297,01:08:35.297
+Andalib Rahman Shagoto: stack?
+
+01:14:38.883,01:14:41.883
+Andalib Rahman Shagoto: ulta string
+
+01:16:28.230,01:16:31.230
+Syed Aref Ahmed: 8 no. line ta ?
+
+01:16:36.548,01:16:39.548
+Syed Aref Ahmed: hae
+
+01:18:25.239,01:18:28.239
+Syed Aref Ahmed: clear
+
+01:18:55.222,01:18:58.222
+Syed Aref Ahmed: 2,3
+
+01:25:01.278,01:25:04.278
+Syed Aref Ahmed: n^2 ?
+
