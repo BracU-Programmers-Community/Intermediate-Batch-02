@@ -1,0 +1,69 @@
+00:15:00.063,00:15:03.063
+Syed Aref Ahmed: O(N)
+
+00:27:32.383,00:27:35.383
+Sabbir Rahman: https://atcoder.jp/contests/dp/tasks
+
+00:33:41.037,00:33:44.037
+Syed Aref Ahmed: MIN(dp[n-1],dp[n-2])
+
+00:35:38.978,00:35:41.978
+Syed Aref Ahmed: nmax initialization 
+
+00:36:54.595,00:36:57.595
+Syed Aref Ahmed: dp[0] = infinity ?
+
+00:43:49.730,00:43:52.730
+Syed Aref Ahmed: O(N) ?
+
+00:44:31.588,00:44:34.588
+Sabbir Rahman: https://atcoder.jp/contests/dp/tasks/dp_b
+
+00:46:44.907,00:46:47.907
+MD. SADMAN SAKIB: etar time complexity ki O(n*k)?
+
+00:50:08.044,00:50:11.044
+MD. SADMAN SAKIB: prottekdin maximum point er kaaj tai kortam
+
+00:54:27.132,00:54:30.132
+Syed Aref Ahmed: c[n] + max(a[n-1],b[n-1])
+
+00:59:11.938,00:59:14.938
+Syed Aref Ahmed: O(N) ?
+
+00:59:55.220,00:59:58.220
+Syed Aref Ahmed: main function e ki die dp start korbo ?
+
+01:01:29.380,01:01:32.380
+MD. SADMAN SAKIB: if(memo[n][last] != -1) er return memo hobe na?
+
+01:08:30.202,01:08:33.202
+Syed Aref Ahmed: dp(n-1,m)+dp(n,m-1) ?
+
+01:13:45.336,01:13:48.336
+MD. SADMAN SAKIB: https://toph.co/arena?contest=criterion-2021-round-8#!/p/5ff360946e20110001ef68cb
+
+01:14:00.641,01:14:03.641
+MD. SADMAN SAKIB: etar jonno kivabe modify korte hobe?
+
+01:14:30.739,01:14:33.739
+MD. SADMAN SAKIB: Criterion 8 vai
+
+01:15:02.416,01:15:05.416
+MD. SADMAN SAKIB: Problem A
+
+01:15:14.642,01:15:17.642
+MD. SADMAN SAKIB: move it
+
+01:18:41.071,01:18:44.071
+MD. SADMAN SAKIB: bag full?
+
+01:18:42.637,01:18:45.637
+Syed Aref Ahmed: MAX(weight) <= W
+
+01:23:55.534,01:23:58.534
+MD. SADMAN SAKIB: n==1 || w == 0?
+
+01:34:57.527,01:35:00.527
+MD. SADMAN SAKIB: vai weight er loop ta keno?
+

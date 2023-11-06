@@ -1,0 +1,30 @@
+00:04:22.105,00:04:25.105
+SAZZADUL ISLAM: 8 banano jay to
+
+00:06:52.477,00:06:55.477
+Syed Aref Ahmed: if(s-ci) > 0
+
+00:06:57.030,00:07:00.030
+Syed Aref Ahmed: dp(ci)
+
+00:11:00.438,00:11:03.438
+Syed Aref Ahmed: int rakha better ?
+
+00:33:40.484,00:33:43.484
+Syed Aref Ahmed: ei type er problem er link ache 
+
+00:41:59.663,00:42:02.663
+Syed Aref Ahmed: l == r ?
+
+00:43:45.275,00:43:48.275
+Syed Aref Ahmed: n-r or l-1 ?
+
+00:48:05.951,00:48:08.951
+Andalib Rahman Shagoto: lcs
+
+01:04:53.471,01:04:56.471
+Sabbir Rahman: https://atcoder.jp/contests/dp/tasks/dp_m
+
+01:11:40.720,01:11:43.720
+Andalib Rahman Shagoto: prefix
+
